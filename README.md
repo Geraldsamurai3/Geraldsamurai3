@@ -1,7 +1,7 @@
 # ¡Hola, soy Gerald!
 
 Soy estudiante de Ingeniería en Sistemas de Información en la Universidad Nacional de Costa Rica.  
-Me impulsa una profunda pasión por la tecnología y la innovación: siempre estoy dispuesto a aprender nuevas herramientas y frameworks, y cuento con sólidas habilidades blandas como trabajo en equipo, comunicación efectiva y pensamiento crítico. 
+Me impulsa una profunda pasión por la tecnología y la innovación: siempre estoy dispuesto a aprender nuevas herramientas y frameworks, cuento con sólidas habilidades blandas como trabajo en equipo, comunicación efectiva y pensamiento crítico. 
 
 ---
 
