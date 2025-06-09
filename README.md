@@ -47,7 +47,7 @@ Me impulsa una profunda pasión por la tecnología y la innovación: siempre est
 
 ---
 
-## 📫 ¡Conectémonos!
+## 📫 ¡Contactame!
 
 No dudes en contactarme para colaborar o compartir conocimientos:  
 ✉️ andreylanza3@gmail.com
